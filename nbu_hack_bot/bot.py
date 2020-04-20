@@ -2,7 +2,7 @@ import telebot
 import config
 import random
 import urllib
-import model1
+import model
 import os
 
 from telebot import types
