@@ -2,6 +2,8 @@
 Our presentation you can find [here](presentation.pdf)
 
 ## Installation
+OS: Windows x64
+
 We support `python3`. To install the dependencies run:
 `pip install -r requirements.txt`
 
