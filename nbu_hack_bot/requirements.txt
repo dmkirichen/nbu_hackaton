@@ -3,7 +3,7 @@ chardet==3.0.4
 cycler==0.10.0
 efficientnet-pytorch==0.6.3
 idna==2.9
-joblib==0.14.1
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.2.1
 numpy==1.18.2
